@@ -16,3 +16,19 @@ This will be the location of a usable release of the software. It will work with
 
 This functions similarly to a lab notebook and details the production process.
 
+
+
+
+
+
+
+
+
+
+
+
+
+[If copying this work, give attribution, keep using this license, and do not use it for commercial purposes.](data/by-nc-sa)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
