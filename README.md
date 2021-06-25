@@ -8,9 +8,9 @@ It provides a simple exploration into image data in opencv-python and uses sciki
 
 ## files included:
 
-#### (to be made) working-demo.ipynb
+#### working-demo.ipynb
 
-This will be the location of a usable release of the software. It will work with sample images found in the data folder.
+This is a quick demo of the software, intended for use with jupyter notebooks. It uses sample images found in the data folder.
 
 #### project-notebook.ipynb
 
